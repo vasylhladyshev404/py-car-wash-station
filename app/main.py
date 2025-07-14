@@ -11,6 +11,7 @@ class Car:
         self.comfort_class = comfort_class
         self.clean_mark = clean_mark
         self.brand = brand
+#
 
 
 class CarWashStation:
